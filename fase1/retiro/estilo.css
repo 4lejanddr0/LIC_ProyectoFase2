@@ -1,0 +1,111 @@
+.button {
+            /*boton agregar */
+            background-color: gray;
+            border-radius: 12px;
+            border: none;
+            color: white;
+            padding: 16px 100px;
+            text-align: center;
+            font-size: 16px;
+            border: 2px solid black;
+
+
+}
+.button:hover {
+            
+            background-color: white;
+            color: black;
+        }
+
+
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+    
+}
+
+body {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial,Helvetica,sans-serif;
+    background: linear-gradient(27deg, #34495e 50%, #2c3e50 50%);
+    
+    
+}
+
+
+.text
+{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 25px;
+    
+}
+
+
+
+    
+div#img{
+  position: absolute;
+    top: 2.0em;
+    left: 5vw;
+    width: 6vw;         
+        
+    }
+
+
+
+div#pp{
+  position: absolute;
+    top: 2.0em;
+    left: 27vw;
+    width: 40vw;
+    font-size: 11mm
+    }
+
+ div#lab1{
+  position: absolute;
+    top: 17.0em;
+    left: 40vw;
+    width: 1vw;         
+        
+    }
+
+ div#p1{
+  position: absolute;
+    top : 11.0em;
+    left: 6vw;
+    width: 1vw;         
+      width: 100%;
+border: solid #5B6DCD 10px;
+
+    }
+
+
+div#menua {
+    
+     position: absolute;
+    top: 30.0em;
+    left: 12vw;
+    width: 1vw;
+}
+
+
+div#int1{
+  position: absolute;
+    top: 31.1em;
+    left: 60vw;
+    width: 1vw;  
+    
+    }
+
+
+
+
+

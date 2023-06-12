@@ -1,0 +1,168 @@
+.button {
+            /*boton agregar */
+            background-color: gray;
+            border-radius: 12px;
+            border: none;
+            color: white;
+            padding: 16px 100px;
+            text-align: center;
+            font-size: 16px;
+            border: 2px solid black;
+
+
+}
+.button:hover {
+            
+            background-color: white;
+            color: black;
+        }
+
+
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+    
+}
+
+body {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial,Helvetica,sans-serif;
+    background: linear-gradient(27deg, #34495e 50%, #2c3e50 50%);
+    
+    
+}
+
+
+.text
+{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 25px;
+    
+}
+
+
+
+    
+div#img{
+  position: absolute;
+    top: 2.0em;
+    left: 5vw;
+    width: 6vw;         
+        
+    }
+
+
+div#int1{
+  position: absolute;
+    top: 18.0em;
+    left: 5vw;
+    width: 1vw;  
+    
+    
+    }
+
+div#pp{
+  position: absolute;
+    top: 2.0em;
+    left: 25vw;
+    width: 53vw;
+    font-size: 6mm
+    }
+
+
+ div#lab1{
+  position: absolute;
+    top: 13.0em;
+    left: 4vw;
+    width: 1vw;         
+        
+    }
+
+ div#p1{
+  position: absolute;
+    top : 11.0em;
+    left: 6vw;
+    width: 1vw;         
+      width: 100%;
+border: solid #5B6DCD 10px;
+
+    }
+
+    div#deposito{
+    
+     position: absolute;
+    top: 11.5em;
+    left: 11vw;
+}
+
+div#retiro{
+    
+     position: absolute;
+    top: 11.5em;
+    left: 55vw;
+    width: 10vw;
+}
+div#consulta{
+    
+     position: absolute;
+    top: 23em;
+    left: 12vw;
+}
+div#pago{
+    
+     position: absolute;
+    top: 23.0em;
+    left: 55vw;
+    width: 600px;
+}
+
+div#cerrar{
+    
+     position: absolute;
+    top: 31em;
+   left: 12vw;
+
+}
+div#historial{
+    
+     position: absolute;
+    top: 31.0em;
+    left: 55vw;
+}
+
+div#aceptar {
+    
+     position: absolute;
+    top: 33.0em;
+    left: 760px;
+    width: 600px;
+}
+
+div#menua {
+    
+     position: absolute;
+    top: 33.0em;
+    left: 70px;
+    width: 600px;
+}
+
+div#monto {
+    
+     position: absolute;
+    top: 33.0em;
+    left: 70px;
+    width: 600px;
+}
+
+
+
+
+
